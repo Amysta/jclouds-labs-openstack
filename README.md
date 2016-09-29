@@ -1,7 +1,7 @@
 jclouds Labs OpenStack
 ======================
 
-Repository for developing OpenStack providers and APIs
+__The upstream repository is at https://github.com/jclouds/jclouds-labs-openstack. This is Amysta's version of [Apache jclouds](http://jclouds.apache.org/), created to fit our internal needs (release calendar, patches, etc.). Patches are contributed back to the upstream project, and upstream patches are integrated as well.__
 
 Although this is a "labs" repository, some of the providers and APIs here are production ready. The reason they have not been merged into into jclouds repository is because there isn't a suitable abstraction layer for them yet. APIs that we expect to change will be marked @Beta.
 
@@ -38,5 +38,7 @@ How long APIs are in Beta is variable but it will be at minimum one release.
 License
 -------
 Copyright (C) 2009-2014 The Apache Software Foundation
+
+Copyright (C) 2016 Amysta
 
 Licensed under the Apache License, Version 2.0
