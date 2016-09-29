@@ -64,7 +64,7 @@
     <dependency>
       <groupId>com.amysta.jclouds</groupId>
       <artifactId>jclouds-compute</artifactId>
-      <version>${project.version}</version>
+      <version>${project.parent.version}</version>
     </dependency>
     <dependency>
       <groupId>com.amysta.jclouds.api</groupId>
