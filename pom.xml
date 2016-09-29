@@ -54,6 +54,12 @@
     <module>rackspace-orchestration-uk</module>
   </modules>
 
+  <scm>
+    <connection>scm:git:git@github.com:Amysta/jclouds-labs-openstack.git</connection>
+    <developerConnection>scm:git:git@github.com:Amysta/jclouds-labs-openstack.git</developerConnection>
+    <url>http://github.com/Amysta/jclouds-labs-openstack</url>
+  </scm>
+
   <profiles>
     <profile>
       <id>doc</id>
