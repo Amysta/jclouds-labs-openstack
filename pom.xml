@@ -29,7 +29,7 @@
 
   <groupId>com.amysta.jclouds.labs</groupId>
   <artifactId>jclouds-labs-openstack</artifactId>
-  <version>2.0.1-SNAPSHOT</version>
+  <version>2.0.1</version>
   <name>Apache jclouds labs openstack</name>
   <packaging>pom</packaging>
 
@@ -58,7 +58,7 @@
     <connection>scm:git:git@github.com:Amysta/jclouds-labs-openstack.git</connection>
     <developerConnection>scm:git:git@github.com:Amysta/jclouds-labs-openstack.git</developerConnection>
     <url>http://github.com/Amysta/jclouds-labs-openstack</url>
-    <tag>HEAD</tag>
+    <tag>jclouds-labs-openstack-2.0.1</tag>
   </scm>
 
   <profiles>
